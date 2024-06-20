@@ -1,4 +1,4 @@
-# Sort-List
+# Sort List
 
 LeetCode Q # 148.
 
